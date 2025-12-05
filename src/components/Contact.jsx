@@ -145,7 +145,7 @@ export default function Contact() {
           </a>
 
           <a 
-            href="https://github.com/asyaazkin" 
+            href="https://github.com/asya99" 
             target="_blank" 
             rel="noopener noreferrer" 
             style={{
